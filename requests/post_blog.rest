@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer 
+
+{
+    "title": "Testi Title 9",
+    "author": "Testi Author 9",
+    "url": "Testi URL 9"
+}
